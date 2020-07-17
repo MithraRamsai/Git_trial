@@ -7,6 +7,7 @@ public class Sample_file {
 		
 		System.out.println("1");
 
+		System.out.println("2");
 	}
 
 }
